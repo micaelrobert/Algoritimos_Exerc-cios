@@ -1,0 +1,9 @@
+num1 = int(input("Digite o primeiro número inteiro: "))
+num2 = int(input("Digite o segundo número inteiro: "))
+num3 = float(input("Digite o número real: "))
+letra_a = (2 * num1) * (num2 / 2)
+letra_b = (3 * num1) + num3
+letra_c = num3 ** 3
+print(f"Resultado a) = {letra_a}")
+print(f"Resultado b) = {letra_b}")
+print(f"Resultado c) = {letra_c}")
